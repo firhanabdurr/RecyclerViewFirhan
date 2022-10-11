@@ -1,2 +1,2 @@
 # RecyclerViewFirhan
-praktikum pengembangan aplikasi mobile module 6
+praktikum pengembangan aplikasi mobile - B
